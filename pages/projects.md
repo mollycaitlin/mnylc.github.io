@@ -32,11 +32,6 @@ The myMETRO Researchers program gave individual METRO members an opportunity to 
 The [Digital Privacy and Data Literacy Project](https://www.dataprivacyproject.org/) (or “Data Privacy Project”) teaches NYC library staff how information travels and is shared online, what risks users commonly encounter online, and how libraries can better protect patron privacy. Its trainings help support libraries’ increasing role in empowering their communities in a digital world. Funded by the Institute of Museum and Library Services, the project is led by a team of library professionals, researchers, tech experts, and community activists interested in the impact of technological advances on everyone, especially the most vulnerable populations in the U.S.
 
 
-## METROcon (presentation slides / videos of keynotes)
-
-			
-
-
 ## Fellowship
 The METRO Fellowship (2016-17) aimed to address cross-institutional challenges amongst METRO member institutions. Real-world problems of practice were submitted by METRO members, and fellowship applicants submitted project proposals that would seek creative solutions to these challenges. Three fellows were matched with participating institutions and worked on projects involving born-digital archiving, linked data, and a community media studio.
 
